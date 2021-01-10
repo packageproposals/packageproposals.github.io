@@ -149,4 +149,4 @@ exclude:
   - screenshot.png
   - vendor
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
