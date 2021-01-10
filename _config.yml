@@ -148,3 +148,5 @@ exclude:
   - README.md
   - screenshot.png
   - vendor
+
+theme: jekyll-theme-cayman
