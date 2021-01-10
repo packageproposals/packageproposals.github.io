@@ -8,7 +8,7 @@ description: |
 disclaimer: |
  None of the packages recommended here have been fully evaluated to be free of malicious code,erronoues code and or malware .
 baseurl:     ""
-url:         "https://packageproposals.github.io/blog/"
+url:         "https://packageproposals.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
      - about.md
@@ -148,5 +148,3 @@ exclude:
   - README.md
   - screenshot.png
   - vendor
-
-theme: jekyll-theme-hacker
