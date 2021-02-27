@@ -13,6 +13,6 @@ I am an open source advocate.
   technology.
 
 For all the details check out
-[Github](https://github.com/stevebarosl)
+[Github](https://github.com/stevebaros)
 
 
