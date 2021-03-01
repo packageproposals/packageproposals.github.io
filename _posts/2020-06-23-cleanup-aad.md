@@ -6,7 +6,7 @@ summary: |
  When you delete objects in Azure AD they go into a "Deleted" state but are not
  actually deleted.  In this short post we will look at how to permanently delete
  objects from Azure AD.
-tags: azure techtips
+tags: azure techtips devops
 categories:
   - Tech Tips
   - Azure
