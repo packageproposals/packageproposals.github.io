@@ -10,6 +10,7 @@ tags: azure techtips
 categories:
   - Tech Tips
   - Azure
+  - Dev Ops
 ---
 
 Ever get the dreaded message: __"The directory object quota limit for the Principal has been exceeded. 
