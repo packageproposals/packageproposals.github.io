@@ -1,17 +1,16 @@
 ---
 layout: post
-title: The best UUID generators for laravel
+title: What is the best UUID generator for javascript
 date: 2021-03-02
 summary: |
  Did you ever wish you could control when and who could get access to your Azure 
  VMs?  Well now you can using Azure Security Center's Just-In-Time access
  feature.
-tags: techtips laravel android java
+tags: techtips javascript vue
 categories:
   - Tech Tips
-  - Laravel
-  - Java
-  - Android
+  - Vue
+  - Javascript
 ---
 
 In this post we'll take a look at a feature of Azure Security Center called
