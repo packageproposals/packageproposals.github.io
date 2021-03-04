@@ -185,6 +185,25 @@
     <meta name="twitter:image" content="{{ site.url }}/images/me.jpeg" />
     {% endif %}
 
+    <meta name="twitter:image" content="{% if page.twitterimage %} {{ site.url }}{{ page.twitterimage }}{% else %}{{ site.image }}{% endif %}">
+
+    <meta name="target"                                 content="all"/>
+    <meta name="audience"                               content="all"/>
+    <meta name="coverage"                               content="Worldwide"/>
+    <meta name="distribution"                           content="Global">
+    <meta name="og:type"                                content="website"/>
+    <meta name="rating"                                 content="safe for kids"/>
+    <meta name="HandheldFriendly"                       content="True"/>
+    <meta name="MSThemeCompatible"                      content="yes"/>
+    <meta name="apple-mobile-web-app-capable"           content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style"  content="translucent black"/>
+    <meta name="msapplication-navbutton-color"          content="translucent black"/>
+    <meta name="mssmarttagspreventparsing"              content="true"/>
+    <meta name="theme-color"                            content="#b1cff4"/>
+    <meta http-equiv="Page-Enter"                       content="RevealTrans(Duration=1.0,Transition=1)"/>
+    <meta http-equiv="Page-Exit"                        content="RevealTrans(Duration=1.0,Transition=1)"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="{{ "/apple-touch-icon-57x57.png" | relative_url }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ "/apple-touch-icon-114x114.png" | relative_url }}">
