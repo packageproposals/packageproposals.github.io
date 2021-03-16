@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to create a package in 3 steps
-date: 2021-03-04
+date: 2021-03-16
 summary: |
  Learn how packages are built and published your package .
 tags: laravel techtips go java javascript
