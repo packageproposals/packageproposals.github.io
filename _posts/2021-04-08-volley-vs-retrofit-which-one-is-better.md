@@ -12,7 +12,7 @@ categories:
 ---
 **Volley  Vs  Retrofit  which one is the best.**
 
-Java developers this topic has been highly debated ,however today am going to give you a clear and concise comparison that you can base on to make a decision to use one of the libraries for your next project.
+Java developers this topic has been highly debated ,however today iam going to give you a clear and concise comparison that you can base on to make a decision to use one of the libraries for your next project.
 
 **VOLLEY.* * ([GitHub](https://github.com/google/volley).)
 
@@ -29,10 +29,8 @@ dependencies {
 
 **Pros  of  Volley.**
 
-Light weight
-
-String request
-
+-Light weight
+-String request
 - Automatic scheduling of network requests.
 - Multiple concurrent network connections.
 - Transparent disk and memory response caching with standard HTTP [cache coherence](https://en.wikipedia.org/wiki/Cache_coherence).
