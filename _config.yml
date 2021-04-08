@@ -8,7 +8,7 @@ description: |
 disclaimer: |
  None of the packages recommended here have been fully evaluated to be free of malicious code,erronoues code and or malware .
 baseurl:     ""
-url:         "https://packagepropose.com/"
+url:         "https://packagepropose.com"
 date_format: "%b %-d, %Y"
 header_pages:
      - about.md
@@ -22,7 +22,7 @@ google_analytics: UA-263637657
 google_tag_manager: GTM-TBGSSLN
 # Bing services
 bing_verification:
-azure_appinsights_key: 
+azure_appinsights_key:
 
 # Optional features
 show_categories     : true
