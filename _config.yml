@@ -140,6 +140,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
