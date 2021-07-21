@@ -18,7 +18,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-263637657
+google_analytics: G-R0GGDE3STN
 google_tag_manager: GTM-TBGSSLN
 # Bing services
 bing_verification:
