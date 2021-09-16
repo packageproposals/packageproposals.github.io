@@ -45,6 +45,8 @@ func main() {
 **Cons.**
 
 - No support for generics
+
+<script src="https://gist.github.com/stevebaros/6fca61e98647613cb3d12f03d8d30c65.js"></script>
 Conclusion
 
 From the above comparison it is clear that go has simple syntax and very easy to learn , so why don't you get started ?.
